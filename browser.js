@@ -1,0 +1,1 @@
+mycovex = require('./index');
