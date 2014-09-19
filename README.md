@@ -1,8 +1,8 @@
 # mycovex
 
-[![Build Status](https://secure.travis-ci.org/emepyc/mycovex.png?branch=master)](http://travis-ci.org/emepyc/mycovex)
-[![Coverage Status](https://img.shields.io/coveralls/emepyc/mycovex.svg)](https://coveralls.io/r/emepyc/mycovex)
-[![NPM version](https://badge-me.herokuapp.com/api/npm/mycovex.png)](http://badges.enytc.com/for/npm/mycovex) 
+[![Build Status](https://secure.travis-ci.org/emepyc/biojs-testcov.png?branch=master)](http://travis-ci.org/emepyc/biojs-testcov)
+[![Coverage Status](https://img.shields.io/coveralls/emepyc/biojs-testcov.svg)](https://coveralls.io/r/emepyc/biojs-testcov)
+[![NPM version](https://badge-me.herokuapp.com/api/npm/biojs-testcov.png)](http://badges.enytc.com/for/npm/biojs-testcov) 
 
 > My coverage example
 
