@@ -54,7 +54,8 @@
     "blanket": {
       "pattern": [
         "lib"
-      ]
+      ],
+      "data-cover-never": "node_modules"
     },
     "travis-cov": {
       "threshold": 60
